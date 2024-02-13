@@ -2,7 +2,7 @@
 * :hurtrealbad: My name is kamal, and i am low quality programmer
 * :trollface: I can do nothing, except trolling and :ghost:[Osu!](https://github.com/ppy/osu)
 * :hocho: How to wake me up: :toilet: Email: foreverwantlive@gmail.com or :hankey: Discord: tgkmdk
-* :innocent: Have fun here :)
+* :innocent: Don't have fun here :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgkzz&layout=compact)
 
