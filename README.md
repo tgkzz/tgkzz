@@ -5,6 +5,6 @@
 * :innocent: Don't have fun here :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgkzz&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tgkzz)](https://github.com/tgkzz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgkzz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--**tgkzz/tgkzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
