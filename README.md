@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgkzz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgkzz&show_icons=true&theme=dark&locale=en&layout=compact)
 
 <div id="badges" align="center">
   
