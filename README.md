@@ -1,6 +1,6 @@
 <div align="center">
 
-### :skull: Do not greet me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reddit+Mono&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%92%80+Coded+enough+to+become+a+microservice)](https://git.io/typing-svg)
 
 <div align="left">
   
@@ -14,6 +14,21 @@
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgkzz&layout=compact)
+
+<div id="badges" align="center">
+  
+  ### Contact Me
+ 
+   <a href="https://www.linkedin.com/in/kamal-mamedov-108258302/" target="_new">
+      <img src="https://img.shields.io/badge/Linkedin-Kamal-blue?logo=Linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/tgkmdk" target="_new">
+    <img src="https://img.shields.io/badge/Telegram-Kamal-blue?logo=telegram" alt="Telegram"/>
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=tgkzz&color=green" alt="Profile views"/>
+  
+</div>
 
 </div>
 
