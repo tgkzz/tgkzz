@@ -20,10 +20,10 @@
   ### Contact Me
  
    <a href="https://www.linkedin.com/in/kamal-mamedov-108258302/" target="_new">
-      <img src="https://img.shields.io/badge/Linkedin-Kamal-blue?logo=Linkedin" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/Linkedin-Kamal Mamedov-blue?logo=Linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/tgkmdk" target="_new">
-    <img src="https://img.shields.io/badge/Telegram-Kamal-blue?logo=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-Britney-blue?logo=telegram" alt="Telegram"/>
   </a>
   
   <img src="https://komarev.com/ghpvc/?username=tgkzz&color=green" alt="Profile views"/>
