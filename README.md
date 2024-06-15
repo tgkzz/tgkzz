@@ -13,7 +13,9 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgkzz&show_icons=true&theme=dark&locale=en&layout=compact)
+![Top langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tgkzz&theme=dark)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tgkzz&theme=dark&utcOffset=5&layout=compact)
+
 
 <div id="badges" align="center">
   
