@@ -21,7 +21,7 @@
   
   ### Contact Me
  
-   <a href="https://www.linkedin.com/in/kamal-mamedov-108258302/" target="_new">
+   <a href="https://www.linkedin.com/in/godevkz/" target="_new">
       <img src="https://img.shields.io/badge/Linkedin-Kamal Mamedov-blue?logo=Linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/tgkmdk" target="_new">
